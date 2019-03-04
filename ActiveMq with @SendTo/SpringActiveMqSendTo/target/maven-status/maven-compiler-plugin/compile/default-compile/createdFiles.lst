@@ -1,0 +1,5 @@
+com\example\SpringActiveMqSendToApplication.class
+com\example\jms\consumer\JmsReplyConsumer.class
+com\example\model\Product.class
+com\example\config\ActiveMqConnectionFactoryConfig.class
+com\example\model\Company.class
