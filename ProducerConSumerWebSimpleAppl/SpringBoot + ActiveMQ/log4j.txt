@@ -1,0 +1,1 @@
+2019-03-10 19:43:55 INFO  JmsConsumer:14 - User{login='qwert', password='fsd'}
