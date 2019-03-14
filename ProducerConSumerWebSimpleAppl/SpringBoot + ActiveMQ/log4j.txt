@@ -1,1 +1,7 @@
-2019-03-10 19:43:55 INFO  JmsConsumer:14 - User{login='qwert', password='fsd'}
+2019-03-14 21:01:25 INFO  JmsConsumer:22 - User{login='qwer', password='qweqwe'}
+2019-03-14 21:02:03 INFO  JmsConsumer:22 - User{login='Hello', password='Hello'}
+2019-03-14 21:13:58 INFO  JmsConsumer:22 - User{login='asdasda', password='asdasd'}
+2019-03-14 21:14:56 INFO  JmsConsumer:22 - User{login='privet', password='privet'}
+2019-03-14 21:19:54 INFO  JmsConsumer:22 - User{login='privet11', password='йййй11'}
+2019-03-14 21:33:48 INFO  JmsConsumer:22 - User{login='eqwewq', password='fdfs'}
+2019-03-14 21:38:54 INFO  JmsConsumer:22 - User{login='privet11', password='gdfgd'}
